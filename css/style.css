@@ -24,6 +24,10 @@ nav  li {
     margin: 0 20px;
 }
 
+a:active{ 
+    color: red;
+}
+
 nav  a {
     display: inline-block;
     text-decoration: none;
@@ -47,7 +51,7 @@ nav  a {
 }
 
 .box2{
-    height: 100vh;
+    height: 120vh;
     background-color: green;
     color: yellow;
     position: relative;
