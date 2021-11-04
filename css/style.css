@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-weight: 900;
+    scroll-behavior: smooth;
 }
 
 main{
@@ -17,6 +18,7 @@ nav {
     top: 50px;
     right: 50px;
     z-index: 50;
+    
 }
 
 nav  li {
@@ -30,7 +32,6 @@ a:active{
 
 nav li a {
     display: inline-block;
-
     text-align: center;
     height: 50px;
     width: 50px;
